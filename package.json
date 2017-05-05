@@ -1,0 +1,17 @@
+{
+  "name": "eslint-plugin-dfsx",
+  "version": "0.0.1",
+  "description": "eslint plugin customized for d.f.s.x company",
+  "main": "index.js",
+  "directories": {},
+  "scripts": {},
+  "author": {
+    "name": "DFSX"
+  },
+  "license": "MIT",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "eslint": "^3.15.0"
+  }
+}
